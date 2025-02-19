@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter version : 3.22.3
 
-A few resources to get you started if this is your first Flutter project:
+Dart SDK : 3.4.4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Search for your drinks and re-arrange the result as your wish. Press hold and drag to another position.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Even if app is closed and reopened position of the items remains in the same position
